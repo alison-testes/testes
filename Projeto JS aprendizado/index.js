@@ -2,6 +2,6 @@ function imprimirSoma(a, b) {
     console.log(a + b)
 }
 
-function testes () {
+function testes1 () {
     return false;
 }
